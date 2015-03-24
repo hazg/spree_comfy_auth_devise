@@ -25,7 +25,7 @@ Add
 ```ruby
 config.admin_auth = 'SpreeComfy::AuthDevise'
 ```
-to comfig/initializers/comfortable_mexican_sofa.rb 
+to config/initializers/comfortable_mexican_sofa.rb 
 
 ## Contributing
 
