@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.version     = SpreeComfyAuthDevise::VERSION
   s.authors     = ["hazg"]
   s.email       = ["hazg@mail.ru"]
-  s.homepage    = "hazg.net"
+  s.homepage    = "http://hazg.net"
   s.summary     = "Devise auth for spree_comfy."
   s.description = "Devise auth for spree_comfy."
   s.license     = "MIT"
@@ -19,5 +19,4 @@ Gem::Specification.new do |s|
 
   s.add_dependency "rails"
 
-  s.add_development_dependency "mysql2"
 end
