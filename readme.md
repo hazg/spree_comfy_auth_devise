@@ -23,7 +23,7 @@ Or install it yourself as:
 Add 
 
 ```ruby
-config.admin_auth = 'SpreeComfy::Auth'
+config.admin_auth = 'SpreeComfy::AuthDevise'
 ```
 to comfig/initializers/comfortable_mexican_sofa.rb 
 
