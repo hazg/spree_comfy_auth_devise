@@ -29,7 +29,7 @@ to config/initializers/comfortable_mexican_sofa.rb
 
 ## Contributing
 
-1. Fork it ( https://github.com/[my-github-username]/spree_comfy_auth_devise/fork )
+1. Fork it ( https://github.com/hazg/spree_comfy_auth_devise/fork )
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
