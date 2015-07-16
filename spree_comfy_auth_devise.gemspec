@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.version     = SpreeComfyAuthDevise::VERSION
   s.authors     = ["hazg"]
   s.email       = ["hazg@mail.ru"]
-  s.homepage    = "http://hazg.net"
+  s.homepage    = "http://github.com/hazg/spree_comfy/spree_comfy_auth_devise"
   s.summary     = "Devise auth for spree_comfy."
   s.description = "Devise auth for spree_comfy."
   s.license     = "MIT"

@@ -11,7 +11,7 @@ module SpreeComfy::AuthDevise
 
     else
       scope = Devise::Mapping.find_scope!(:user)
-      session["#{scope}_return_to"] = new_admin_cms_site_path(:locale => I18n.locale) # if localized...
+      session["#{scope}_return_to"] = new_comfy_admin_cms_site_path(:locale => I18n.locale) # if localized...
       redirect_to '/user/spree_user/sign_in'
     end
 
